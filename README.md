@@ -2,4 +2,4 @@
 A fun interactive pattern based memory game.
 
 
-Feel free to enjoy the game at:<br/>https://simon-game-udemy.herokuapp.com/
+<b>Feel free to enjoy the game at:</b><br/>https://simon-game-udemy.herokuapp.com/
